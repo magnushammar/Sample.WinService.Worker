@@ -1,0 +1,32 @@
+# Project Specific
+index/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# VSCODE
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# IONIDE
+.ionide
+
+# Visual Studio
+.vs/
+
+# Paket dependency manager
+.paket/paket.exe
+.paket/load/
+packages/
+paket-files/
+
+# FAKE - F# Make
+.fake/
+
